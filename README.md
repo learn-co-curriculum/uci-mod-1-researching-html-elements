@@ -1,29 +1,28 @@
 # Leveraging Additional HTML Documentation Resources
 
-## Problem Statement
+## Learning Goals
 
-When writing HTML you might encounter tags that are new to you.  How are
-we going to level-up?  When searching for technical help, we have to be careful
-about which sources we trust. This is a skill you will build over time, but
-we'll model some good practices in this README.
+- Use search engines as a resource to find information
+- Observe and identify relevant resources
+- Compare multiple resources to find the best source
 
-## Objectives
+## Introduction
 
-1. Use search engines as a resource to find information
-2. Observe and identify relevant resources
-3. Compare multiple resources to find the best source
+When writing HTML you might encounter tags that are new to you. What's the best
+way to learn how to use them correctly? When searching for technical help, we
+have to be careful about which sources we trust. This is a skill you will build
+over time, but we'll cover some good practices in this README.
 
-
-## Use Search Engines as a Resources to Find Information
+## Use Search Engines as a Resource to Find Information
 
 Let's say in your research, you come across an unfamiliar HTML element like
-`<samp>`. We can google `samp html element,` and we will find an endless list
+`<samp>`. We can search `samp html element,` but we will receive an endless list
 of results to choose from. Sometimes resources can be outdated, biased, or
 inaccurate. It's important to filter through the results to find the best fit.
 
 ![](https://curriculum-content.s3.amazonaws.com/web-development/html-element-search.png)
 
-## Observe And Identify Resources Relevant Information
+## Observe and Identify Relevant Resources 
 
 Your instinct might be to open the first result. You should be pickier.
 Sometimes the result has "gamed" the search engine and unfairly influenced the ranking.
@@ -53,10 +52,11 @@ The web is a constantly evolving entity. As we build more ambitious products or
 learn from our collective needs and mistakes, the industry will continually
 update the HTML specifications.
 
-Researching referencing documentation
-can be scary at first, but it's a primary skill for developers. Don't be afraid to
-practice technical searches. It's a _skill_ that you will get better at with practice.
+Researching referencing documentation can be scary at first, but it's a primary
+skill for developers. Don't be afraid to practice technical searches. It's a
+_skill_ that you will get better at with practice.
 
-Most importantly, don't feel like _not knowing everything by heart_ means you can't
-be a developer. The greatest developers we know are constantly admitting what they
-don't know, finding the latest news, using the answer they found, and moving on.
+Most importantly, don't feel like _not knowing everything by heart_ means you
+can't be a developer. The greatest developers we know are constantly admitting
+what they don't know, finding the latest news, using the answer they found, and
+continuing to grow.
